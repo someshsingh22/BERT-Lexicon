@@ -1,1 +1,1 @@
-from DataLoader import BertDataset, BertIterator
+from .DataLoader import BertDataset, BertIterator
